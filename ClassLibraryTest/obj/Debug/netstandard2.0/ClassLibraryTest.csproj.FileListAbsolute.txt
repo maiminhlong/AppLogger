@@ -1,0 +1,10 @@
+D:\Projects Source Code\AppLogger\ClassLibraryTest\bin\Debug\netstandard2.0\ClassLibraryTest.deps.json
+D:\Projects Source Code\AppLogger\ClassLibraryTest\bin\Debug\netstandard2.0\ClassLibraryTest.dll
+D:\Projects Source Code\AppLogger\ClassLibraryTest\bin\Debug\netstandard2.0\ClassLibraryTest.pdb
+D:\Projects Source Code\AppLogger\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.csproj.AssemblyReference.cache
+D:\Projects Source Code\AppLogger\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects Source Code\AppLogger\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.AssemblyInfoInputs.cache
+D:\Projects Source Code\AppLogger\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.AssemblyInfo.cs
+D:\Projects Source Code\AppLogger\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.csproj.CoreCompileInputs.cache
+D:\Projects Source Code\AppLogger\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.dll
+D:\Projects Source Code\AppLogger\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.pdb

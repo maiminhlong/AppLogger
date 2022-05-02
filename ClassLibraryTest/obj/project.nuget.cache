@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IY8IZMjR0hMMDimUgRkbg+Synf0RHvEZL3GAGhensMiWWThSz0g4gtgh97jqSaEZb662HmbPDZNYO5Dp9RJVoA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects Source Code\\AppLogger\\ClassLibraryTest\\ClassLibraryTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T480s\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\T480s\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
